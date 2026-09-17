@@ -1,5 +1,5 @@
 import time
 
-print("Running frontend checks...")
+print("Running Student Management Frontend Interface checks...")
 time.sleep(3)
-print("Frontend checks passed.")
+print("Student Management Portal Frontend checks passed.")
